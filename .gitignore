@@ -1,0 +1,4 @@
+.venv/
+third_party/
+out/
+__pycache__/
